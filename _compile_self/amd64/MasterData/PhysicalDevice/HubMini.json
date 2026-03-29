@@ -1,0 +1,11 @@
+{
+  "DeviceType": "HubMini",
+  "ApiDeviceTypeString": "Hub Mini",
+  "PhysicalOrVirtual": "PhysicalDevice",
+  "IsSupportPolling": false,
+  "IsSupportWebhook": false,
+  "IsSupportCommand": false,
+  "DisplayName": "Hub Mini",
+  "Fields": [],
+  "Commands": []
+}
